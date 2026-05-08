@@ -1,16 +1,47 @@
-# flutter_firebase_notification
+# 🚀 Radius Employee
 
-A new Flutter project.
+A Flutter-based employee management app with Firebase integration, 
+real-time push notifications, and cross-platform support for Android & iOS.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🔔 Real-time Push Notifications (Firebase)
+- 👥 Employee Management System
+- 🔐 Firebase Authentication
+- 🌐 Cross-platform (Android & iOS)
+- ⚡ High-performance & clean UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Technology | Purpose |
+|-----------|---------|
+| Flutter | Frontend UI |
+| Dart | Programming Language |
+| Firebase | Backend & Auth |
+| REST APIs | Data Integration |
+| SQLite | Local Storage |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+<!-- Add your screenshots here -->
+
+<p align="center">
+  <img src="assets/images/pic1.jpeg" width="250"/>
+  <img src="assets/images/pic2.jpeg" width="250"/>
+</p>
+
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/mehranappdeveloper-create/radius_employee
+cd radius_employee
+flutter pub get
+flutter run
+```
+
+## 👨‍💻 Developer
+
+**Mehran Hanif** — Flutter App Developer
+- LinkedIn: [Mehran Hanif](https://www.linkedin.com/in/mehran-hanif-3b7680285/)
+- GitHub: [@mehranappdeveloper-create](https://github.com/mehranappdeveloper-create)
